@@ -1,0 +1,6 @@
+.idea
+navermovie.db
+*.pyc
+__pycash__
+migrations
+*.zip
