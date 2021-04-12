@@ -6,3 +6,4 @@ SQLALCHEMY_DATABASE_URI = 'sqlite:///{}'.format(os.path.join(BASE_DIR, 'navermov
 SQLALCHEMY_TRACK_MODIFICATIONS = False
 
 SECRET_KEY = 'dev'
+#수정
